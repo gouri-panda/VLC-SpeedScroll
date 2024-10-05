@@ -34,7 +34,6 @@ function show_input_dialog()
     -- Add a label to display current playback speed
     speed_label = dialog:add_label("Current speed: ", 1, 1, 1, 1)
 
-     -- Create a scrollable container for buttons
 
 
     -- Add preset buttons for playback speeds (vertically arranged)
